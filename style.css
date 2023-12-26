@@ -900,15 +900,23 @@ footer::after {
         margin-bottom: 80px;
     }
 
-    .main-banner button{
+    .main-banner button {
         margin-bottom: 130px;
     }
 
-    .portfolio .overflow{
+    .portfolio .overflow {
         width: 380px;
     }
 
     .testimonials ul li .testifier-data {
         margin-left: 150px;
+    }
+
+    footer ul {
+        flex-wrap: wrap;
+    }
+
+    footer ul li {
+        margin-right: 15px;
     }
 }
