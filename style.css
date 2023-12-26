@@ -920,3 +920,9 @@ footer::after {
         margin-right: 15px;
     }
 }
+
+@media (max-width: 381px) {
+    .get-in-touch form input[type="text"] {
+        margin-right: 2%;
+    }
+}
