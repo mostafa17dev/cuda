@@ -897,7 +897,15 @@ footer::after {
 
 @media (max-width: 576px) {
     .main-banner h2 {
-        margin-bottom: 40px;
+        margin-bottom: 80px;
+    }
+
+    .main-banner button{
+        margin-bottom: 130px;
+    }
+
+    .portfolio .overflow{
+        width: 380px;
     }
 
     .testimonials ul li .testifier-data {
