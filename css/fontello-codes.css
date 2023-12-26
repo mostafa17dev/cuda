@@ -2,8 +2,9 @@
 .icon-flag:before { content: '\e800'; } /* '' */
 .icon-pencil:before { content: '\e801'; } /* '' */
 .icon-cog-outline:before { content: '\e802'; } /* '' */
+.icon-brush:before { content: '\e803'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-facebook:before { content: '\f09a'; } /* '' */
 .icon-mail-alt:before { content: '\f0e0'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
-.icon-rocket:before { content: '\f135'; } /* '' */
+.icon-desktop:before { content: '\f108'; } /* '' */
